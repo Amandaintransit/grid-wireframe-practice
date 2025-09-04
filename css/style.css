@@ -1,0 +1,23 @@
+.grid-container{
+display: grid;
+ background-color: rgb(19, 180, 46);
+}
+body{
+   background-color: gray;
+   color: white;
+}
+.header{
+    background-color: rgb(195, 2, 195);
+}
+#aside1{
+    background-color: rgb(143, 52, 228);
+}
+.column{
+    background-color: rgb(198, 14, 100);
+}
+#aside2{
+    background-color: rgb(8, 156, 156);
+}
+.footer{
+    background-color: rgb(240, 135, 24);
+}
